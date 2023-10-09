@@ -13,3 +13,9 @@ Create a Bash script that enters information from World Cup games into PostgreSQ
 
 [Bash](https://github.com/congconghu/freeCodeCamp-capstone/blob/main/relational-database/insert_data.sh), 
 [SQL queries](https://github.com/congconghu/freeCodeCamp-capstone/blob/main/relational-database/queries.sh)
+
+
+### 3. Salon Appointment Scheduler
+An interactive Bash program that uses PostgreSQL to track the customers and appointments for your salon.
+
+[Bash](https://github.com/congconghu/freeCodeCamp-capstone/blob/main/relational-database/salon.sh)
