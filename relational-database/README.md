@@ -19,3 +19,10 @@ Create a Bash script that enters information from World Cup games into PostgreSQ
 An interactive Bash program that uses PostgreSQL to track the customers and appointments for your salon.
 
 [Bash](https://github.com/congconghu/freeCodeCamp-capstone/blob/main/relational-database/salon.sh)
+
+
+### 4. Periodic Table Database
+Bash script to get information about chemical elements from a periodic table database.
+
+[Bash](https://github.com/congconghu/freeCodeCamp-capstone/blob/main/relational-database/element.sh)
+
