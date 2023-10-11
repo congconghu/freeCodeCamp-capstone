@@ -26,3 +26,9 @@ Bash script to get information about chemical elements from a periodic table dat
 
 [Bash](https://github.com/congconghu/freeCodeCamp-capstone/blob/main/relational-database/element.sh)
 
+
+### 5. Number Guessing Game
+use Bash scripting, PostgreSQL, and Git to create a number guessing game that runs in the terminal and saves user information.
+
+[Bash](https://github.com/congconghu/freeCodeCamp-capstone/blob/main/relational-database/number_guess.sh)
+
